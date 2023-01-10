@@ -26,5 +26,5 @@ myBike.wheels = 2;
 
 }
 
-After creating myCar object, the value inside the object can be accessed using keys.
+After creating myBike object, the value inside the object can be accessed using keys.
 
